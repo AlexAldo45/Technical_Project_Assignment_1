@@ -461,9 +461,9 @@ ul li ul:hover {
   width: 100%;
   border-radius: 30px;
   font-size: 70px;
-  background-color: #F6D860;
   text-align: center;
-  color: white;
+  color: #8773ea;
+  text-shadow: 5px 5px #E5D1FA;
 }
 .skills-margin{
   margin: 0px 25px;
