@@ -303,6 +303,9 @@ ul li ul:hover {
   margin-top: 15px;
   transition: transform .2s;
 }
+.circle-drop-down{
+  width: fit-content;
+}
 .circle img{
   width: 25px
 }
